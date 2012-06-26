@@ -1,0 +1,27 @@
+@charset utf-8;
+/*
+Theme Name: TechMonks Podcast
+Theme URI: http://techmonkspodcast.com/
+Author: Aaron K. White
+Author URI: http://aaronkwhite.com/
+Description: The TechMonks Podcast custom theme... hacked away from The Whiteboard Framework, with bits and pieces borrowed from the Googles & Presswork theme.
+Version: 1.0
+
+Built on a super hacked up version of the  Whiteboard Framework
+http://whiteboardframework.com
+*/
+
+/*
+ * The Whiteboard Framework is licensed under the GPL license.
+ * Feel free to use the Whiteboard Framework for commercial and non-commercial ventures.
+ * We require a link in the CSS file and request a link on the website
+*/
+
+/*
+List of divs in Whiteboard
+Note that this list does not include the dynamically generated ids and classes, such as the body classes, the post ids, etc
+*/
+
+@import url('css/reset.css');
+
+@import url('css/theme.css');

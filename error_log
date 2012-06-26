@@ -1,0 +1,2 @@
+[07-Jan-2012 19:23:59] PHP Fatal error:  Call to undefined function  get_header() in /home/sugared1/public_html/techmonkspodcast.com/wp-content/themes/techmonks/index.php on line 1
+[29-Jan-2012 07:12:07] PHP Fatal error:  Call to undefined function  get_header() in /home/sugared1/public_html/techmonkspodcast.com/wp-content/themes/techmonks/index.php on line 1
